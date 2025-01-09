@@ -1,9 +1,6 @@
-# 1984
+# 何以 1984 不似《一九八四》
 
 ![1984](img/1984.webp)
-
-## 1984 广告
-何以 1984 不似《一九八四》
 
 ## 股东会[^release]
 
@@ -31,10 +28,10 @@
 
 演示开始。开机，打开 MacPaint，用鼠标随便画（拖动、点击、放大），复制，打开 MacWrite，随意编辑（字体、字号、段落），粘贴图片，保存，结束。这些都是我们今天再熟悉不过的操作，但是在 1984 年，这些都是前所未有的。
 
-![paste](img/paste.jpeg)
+<img src="img/paste.jpeg" width="564"/>
 
 1984 之前的个人电脑是何状况？“1984”广而告之的是什么？……
 
-[^first-mac]: [Watch Steve Jobs reveal the very first Macintosh on this day in 1984](https://www.macworld.com/article/2215934/watch-steve-jobs-reveal-first-mac.html), from macworld.com, 1984.1.24
 [^release]: [1984.1.30 Macintosh 产品介绍及演示 - Steve Jobs Introduces the Macintosh - Computer History Museum](https://www.youtube.com/watch?v=1tQ5XwvjPmA&t=73s&pp=ygUObWFjaW50b3NoIDE5ODQ%3D)
 [^movie]: Steve Jobs, 2015, Director - Danny Boyle; Writers - Aaron Sorkin, Walter Isaacson; Stars - Michael Fassbender, Kate Winslet, Seth Rogen; 
+[^first-mac]: [Watch Steve Jobs reveal the very first Macintosh on this day in 1984](https://www.macworld.com/article/2215934/watch-steve-jobs-reveal-first-mac.html), from macworld.com, 1984.1.24

@@ -1,6 +1,4 @@
-# 追赶乔布斯的岩田聪04｜MacPaint 能用它做什么？
-
-![logo](img/logo.jpg)
+# 追赶乔布斯的岩田聪04｜我画了一个圈圈！
 
 _“我画了一个圈圈！” —— 安迪·沃霍尔[^0]_
 
@@ -42,19 +40,19 @@ _^ 乔布斯展示 Mac，右下黄发为沃霍尔 [^show]_
 
 ## 游戏结束
 
-9 年后，1993 年 Sheff 出版了一本叫《Game Over（游戏结束）》的书[^nintendo]，主角是另一家公司，同样希望自己的产品能够将快乐带给孩子们 —— 任天堂。
+九年后，1993 年 Sheff 出版了一本叫《Game Over（游戏结束）》的书[^nintendo]，主角是另一家公司，同样希望自己的产品能够将快乐带给孩子们 —— 任天堂。
 
-![game over](img/gameover.jpg)
+<img src="img/gameover.jpg" width="375"/>
 
 
 [^0]: 本章主要参考 David Sheff 的 [The Night Steve Jobs Met Andy Warhol](https://www.davidsheff.com/the-night-steve-jobs-met-andy-warhol)，基本上是翻译、摘录和重新组织，第一人称改为第三人称。
-[^1]: 沃尔特《乔布斯传》中写到用了 QuickDraw 是有问题的，QuickDraw 是一个库，不是应用程序。绘图软件是 MacPaint。
 [^first]: 见本系列[《追赶乔布斯的岩田聪——个人计算机早期发展史_01_从 EDDY II 到 HALNOTE》](https://mp.weixin.qq.com/s/Ut-j5QsSr--ZBqfeRPevig)
-[^steve]: [Steve Jobs by David Sheff](https://www.davidsheff.com/steve-jobs)
-[^show]: [Steve Jobs Showing off Macintosh to Andy Warhol, Sean Lennon, and Keith Haring in 1984.](https://www.reddit.com/r/VintageApple/comments/tde885/steve_jobs_showing_off_macintosh_to_andy_warhol/) From reddit.com.
+[^b]: 沃尔特《乔布斯传》的记载是贝聿铭事务所的詹姆斯·弗里德(James·Freed)对其进行翻修。
 [^john]: 1980 年 12 月 8 日，披头士乐队（The Beatles）的前成员约翰·列侬（John Lennon）在纽约返回他位于达科他公寓内的家途中被枪杀。
+[^1]: 沃尔特《乔布斯传》中写到用了 QuickDraw 是有问题的，QuickDraw 是一个库，不是应用程序。绘图软件是 MacPaint。
 [^andy]: 作为波普艺术（Pop art）的先驱和核心人物，安迪·沃霍尔 (Andy Warhol) 以日常用品和大众媒体中出现的名人肖像作为主题，创作出历久不衰的影像，并奠定了他的时代。玛丽莲·梦露（Marilyn Monroe）系列为其代表作之一。
 [^keith]: 基思·哈林 (Keith Haring)，美国波普艺术家，被誉为“涂鸦艺术之父”。
-[^b]: 沃尔特《乔布斯传》的记载是贝聿铭事务所的詹姆斯·弗里德(James·Freed)对其进行翻修。
+[^show]: [Steve Jobs Showing off Macintosh to Andy Warhol, Sean Lennon, and Keith Haring in 1984.](https://www.reddit.com/r/VintageApple/comments/tde885/steve_jobs_showing_off_macintosh_to_andy_warhol/) From reddit.com.
 [^andy_dairy]: 但是沃霍尔自己的日记可不这么写。“我们进了肖恩的卧室 —— 那里有一个孩子正在设置肖恩得到的苹果电脑，Macintosh型号。我说曾经有个人一直打电话给我，想送我一台，但我从来没有回电话或者什么的，然后那个孩子抬起头说：‘是的，那是我。我是史蒂夫·乔布斯。’他看起来那么年轻，像个大学生。他告诉我他现在还会送我一台。然后他教我如何用它画画。”[_The Andy Warhol Diaries_, Grand Central Publishing, 2009]。另，乔布斯的女儿丽萨在回忆录《小人物》里记录她睡觉前母亲会给她读沃霍尔的日记，但她并不喜欢。
 [^nintendo]: 《游戏结束：任天堂全球征服史》，[美] 戴维·谢弗（著），吕敏（译），读库御宅学，新星出版社，2020。关于本书中文版的历史可见笔者发布与“读库小报”微信公众号的[《游戏才刚刚开始》](https://mp.weixin.qq.com/s/cQIc12q7xZAw0X1NiB5A8g)
+[^steve]: [Steve Jobs by David Sheff](https://www.davidsheff.com/steve-jobs)
