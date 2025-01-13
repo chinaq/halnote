@@ -148,7 +148,7 @@ _^西和彦与孙正义_
     - 31日：雅马哈开发“YM3526(OPL)”
 
 
-<img src="img/ml8000.jpg" alt="" width="375" style="margin-top: 20px">
+<img src="img/ML8000.jpg" alt="" width="375" style="margin-top: 20px">
 
 _^三菱 ML-8000_
 

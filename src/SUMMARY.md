@@ -6,3 +6,4 @@
 - [我是 Lisa](./03_lisa_1983/lisa.md)
 - [我画了一个圈圈！](./04_paint/paint.md)
 - [从御三家到 MSX](./05_msx/msx.md)
+- [About](./about/author.md)
