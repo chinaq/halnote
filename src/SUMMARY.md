@@ -1,6 +1,7 @@
 # Summary
 
-- [楔子](./00_prolog/0_smile.md)
+- [START](start.md)
+- [一个大人怎么能一直那么笑着呢](./00_prolog/0_smile.md)
 - [从 EDDY II 到 HALNOTE](./01_HALNOTE/halnote.md)
 - [何以1984不似《一九八四》](./02_1984/mac.md)
 - [我是 Lisa](./03_lisa_1983/lisa.md)

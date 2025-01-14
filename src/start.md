@@ -1,0 +1,1 @@
+<img src="img/cover_halnote.jpg" width="564px">
